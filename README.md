@@ -9,7 +9,7 @@
 git clone https://github.com/FryMondo/lab5.git
 ```
 ### Running project
-If you use IDE, open project and run ***Apartment.java***
+If you use IDE, open project and run ***Main.java***
 ### Running project via console
 Move to the directory
 ```
@@ -18,7 +18,7 @@ lab5/src
 Run next commands
 ```
 javac *.java
-java Apartment
+java Main
 ```
 ## Project Structure
 ### ApplianceManager.java
